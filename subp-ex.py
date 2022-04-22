@@ -1,4 +1,3 @@
-import shlex
 import subprocess
 import sys
 import boto3
